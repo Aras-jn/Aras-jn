@@ -9,3 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: no fun facts
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-jn)](https://github.com/anuraghazra/github-readme-stats)
+
+
