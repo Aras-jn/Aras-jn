@@ -10,7 +10,7 @@
 -  Fun fact: no fun facts
 
 <h2>My Github Stats :</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Aras-jn&&show_icons=true&title_color=00ffff&icon_color=9400d3&text_color=d3d3d3&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Aras-jn&&show_icons=true&title_color=00ffff&icon_color=fffff&text_color=d3d3d3&bg_color=151515">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-jn&layout=compact&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=151515" />
 
