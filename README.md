@@ -6,13 +6,9 @@
 -  Pronouns: He/His
 -  Fun fact: no fun facts
 
-<h2 align="center">My Github Stats :</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aras-jn&&show_icons=true&title_color=00ffff&icon_color=fffff&text_color=d3d3d3&bg_color=151515" class="">
+<img src="https://github-readme-stats.vercel.app/api?username=Aras-jn&&show_icons=true&title_color=00ffff&icon_color=fffff&text_color=d3d3d3&bg_color=151515">
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-jn&layout=compact&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=151515" />
-</p>
-<h2></h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-jn&&show_icons=true&title_color=00ffff&icon_color=fffff&text_color=d3d3d3&bg_color=151515"><h2></h2>
 <h3 align="center">Connect with me : </h3>
 <p align="center">
 <a href="https://instagram.com/aras__to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aras__to" height="30" width="40" /></a>
