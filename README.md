@@ -5,7 +5,7 @@
 -  Ask me about html & css & js
 -  Pronouns: He/His
 -  Fun fact: no fun facts
-
+<hr />
 <img src="https://github-readme-stats.vercel.app/api?username=Aras-jn&&show_icons=true&title_color=00ffff&icon_color=fffff&text_color=d3d3d3&bg_color=151515">
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-jn&&show_icons=true&title_color=00ffff&icon_color=fffff&text_color=d3d3d3&bg_color=151515"><h2></h2>
